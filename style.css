@@ -1,0 +1,150 @@
+.hakkimizda{
+    color: #fff;
+}
+
+.hakkimizda i{
+    margin-bottom: 25px;
+}
+
+.hakkimizda p{
+    font-size: 20px;
+}
+
+.card img{
+    height: 300px;
+}
+
+.ekibimiz i{
+    margin-bottom: 30px;
+    color: white;
+}
+
+.ekibimiz{
+    background-color: darkblue;
+}
+
+.ekibimiz h2{
+    color: #fff;
+}
+
+.galeri img{
+    height: 210px;
+}
+
+.galeri{
+    background-color: gray;
+}
+
+.galeri h2,i{
+    color: #fff;
+}
+
+.galeri i{
+    margin-bottom: 35px;
+}
+
+.galeri img:hover{
+    opacity: 0.6;
+}
+
+.card-text{
+    color: darkblue;
+    font-weight: bold;
+}
+
+.ad{
+    color: black;
+    font-size: 25px;
+}
+
+.ad1{
+    width: 450px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.soyad{
+    color: black;
+    font-size: 25px;
+}
+
+.soyad1{
+    width: 450px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.surname{
+    margin-left: -37px;
+}
+
+.email1{
+    color: black;
+    font-size: 25px;
+}
+
+.email2{
+    width: 450px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.email{
+    margin-left: -30px;
+}
+
+.textarea1{
+    margin-left: -38px;
+    font-size: 20px;
+}
+
+.message label{
+    margin-top: -150px;
+}
+
+.btn{
+    margin-top: 10px;
+    margin-left: -310px;
+}
+
+.yazi{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: 15%;
+}
+
+.com{
+    margin-top: 15%;
+    text-align: center;
+}
+
+.linkedin{
+    color: #fff;
+    font-size: 30px;
+}
+
+.linkedin a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.linkedin a:hover{
+    color: red;
+}
+
+.gmail{
+    font-size: 30px;
+}
+
+.gmail a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.gmail a:hover{
+    color: orange;
+    font-size: 50px;
+}
+
+
